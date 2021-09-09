@@ -1,4 +1,4 @@
-Hi, good morning.  
+Hello everyone, good morning.  
 I am a simple person and a simple programmer.
 
 Now, I am studying C language and something about web.
